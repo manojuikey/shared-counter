@@ -24,7 +24,8 @@ Thread safe clustered counter which provides atomic operations.
 
 ## com.cluster.counter.CounterFactory
 Counter factory
-- getCounter(countrtName) - Returns the Counter by it's name
+  - getCounter(countrtName) -- Returns the Counter by it's name
+
 ---
 
 ## com.cluster.counter.server.ServerMain
